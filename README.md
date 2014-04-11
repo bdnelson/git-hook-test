@@ -7,3 +7,5 @@ Sample repo used for git-hook testing.  Nothing interesting here.
 Sample repo used for git-hook testing.  Nothing interesting here.
 Sample repo used for git-hook testing.  Nothing interesting here.
 Sample repo used for git-hook testing.  Nothing interesting here.
+
+This is a test feature comment.
